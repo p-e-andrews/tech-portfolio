@@ -3,4 +3,4 @@ id: projects
 title: Projects
 ---
 
-![Add alternate text for image](./assets/duckduckgo_lab9_QA.jpg)
+![duckduckgo lab9 QA](./assets/duckduckgo_lab9_QA.png)
