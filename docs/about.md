@@ -3,29 +3,17 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am currently a Senior at Wake Technical Community College.
 
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
+This semester Fall 2023 I am taking Cloud Application Development (aka AWS cert) and Information Systems Business Concepts (a project management course).
+In Spring 2024 I will have my last class as either a group capstone project or Work Based Learning (WBL). I very much want to have the hands-on professional experience of WBL so I'm searching for internships or jobs in the software industry.
 
-Write it in first (I) or third (Your Name Here) person.
+I believe in transparency, context, and concise communication. I feel these are some of the core values that lead to efficiency and understanding.
+Beyond that, I believe in humor and flexibility. With humor and flexibility in addition to the previous values, I think a team can be truly harmonious and positive.
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I also believe in gardening which is why there is a small indignant lizard in a giant basil plant on the main page. We also have two rescue cats and a yard full of fat squirrels.
 
-## Current Role
-
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-See the bottom of my website pages.
+For more information:
+LinkedIn:  https://www.linkedin.com/in/phoebe-andrews-01630587/
+WayUp:  https://www.wayup.com/profile/Phoebe-Andrews-788466db97/
+HandShake: https://waketech.joinhandshake.com/stu/users/44986313
