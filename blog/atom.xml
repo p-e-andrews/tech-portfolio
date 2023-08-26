@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/p-e-andrews/tech-portfolio/blog</id>
+    <title>Phoebe Andrews Blog</title>
+    <updated>2023-08-25T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/p-e-andrews/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Phoebe Andrews news and events.</subtitle>
+    <logo>https://github.com/p-e-andrews/tech-portfolio/undefined</logo>
+    <rights>Copyright © 2023 Phoebe Andrews</rights>
+    <entry>
+        <title type="html"><![CDATA[Portfolio Begins : Summer 2023]]></title>
+        <id>https://github.com/p-e-andrews/tech-portfolio/blog/2023/08/25/blog-post.html</id>
+        <link href="https://github.com/p-e-andrews/tech-portfolio/blog/2023/08/25/blog-post.html"/>
+        <updated>2023-08-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>This portfolio was initially a homework assignment in Fall 2022.</p> <p>Inspired and encouraged by my family to build a better portfolio I recovered this homework from my school notes.</p> <p>While exploring the files in the forked repo behind this assignment I ha...</p>]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>
