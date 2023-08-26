@@ -13,7 +13,8 @@ Beyond that, I believe in humor and flexibility. With humor and flexibility in a
 
 I also believe in gardening which is why there is a small indignant lizard in a giant basil plant on the main page. We also have two rescue cats and a yard full of fat squirrels.
 
-For more information:
-LinkedIn:  https://www.linkedin.com/in/phoebe-andrews-01630587/
-WayUp:  https://www.wayup.com/profile/Phoebe-Andrews-788466db97/
-HandShake: https://waketech.joinhandshake.com/stu/users/44986313
+#### For more information: 
+
+* LinkedIn:  https://www.linkedin.com/in/phoebe-andrews-01630587/ 
+* WayUp:  https://www.wayup.com/profile/Phoebe-Andrews-788466db97/ 
+* HandShake: https://waketech.joinhandshake.com/stu/users/44986313 
